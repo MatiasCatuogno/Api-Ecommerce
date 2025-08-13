@@ -1,0 +1,24 @@
+[
+ {
+  "id": "1739569807677",
+  "products": [
+   {
+    "productId": "67af5ee163379ac00c00997e",
+    "quantity": 2
+   }
+  ]
+ },
+ {
+  "id": "1739571762033",
+  "products": [
+   {
+    "productId": "67af5f1663379ac00c00997f",
+    "quantity": 2
+   },
+   {
+    "productId": "67af5ee163379ac00c00997e",
+    "quantity": 1
+   }
+  ]
+ }
+]

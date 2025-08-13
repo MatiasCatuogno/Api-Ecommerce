@@ -1,0 +1,35 @@
+{
+ "name": "api-ecommerce",
+ "version": "1.0.0",
+ "author": "Matias Ezequiel Catuogno",
+ "description": "Api de un E-Commerce creada con Node.js, Express.js, y MongoDb en códerhouse.",
+ "type": "module",
+ "main": "index.js",
+ "license": "ISC",
+ "keywords": [],
+ "engines": {
+  "node": "18.x"
+ },
+ "repository": {
+  "url": "https://github.com/MatiasCatuogno/api-ecommerce"
+ },
+ "dependencies": {
+  "bootstrap": "^5.3.3",
+  "colors": "^1.4.0",
+  "express": "^4.21.2",
+  "express-handlebars": "^8.0.1",
+  "handlebars": "^4.7.8",
+  "mongoose": "^8.10.0",
+  "mongoose-paginate-v2": "^1.9.0",
+  "multer": "^1.4.5-lts.1",
+  "socket.io": "^4.8.1"
+ },
+ "devDependencies": {
+  "nodemon": "^3.1.9"
+ },
+ "scripts": {
+  "start": "node src/index.js",
+  "starts": "nodemon ./src/index.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+ }
+}
