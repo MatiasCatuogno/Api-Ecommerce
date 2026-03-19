@@ -14,6 +14,3 @@
 # Scripts:
 - Script: "Npm i" para instalar dependencias.
 - Script: "Npm start" para ejecutar.
-
-# Link:
-- https://e-commerce-backend-abqv.onrender.com/apidocs
